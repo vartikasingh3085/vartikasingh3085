@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web Development, Data Structures & Algorithms, and Problem Solving.
 - 🌱 I’m currently learning DSA in C++ and Full-Stack Web Development.
 - 🤝 I’m looking to collaborate on beginner-friendly open-source web projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vartikasingh3085) | vartikasingh3085@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vartika-singh-2a9035361) | vartikasingh3085@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love exploring new tech tools and finding creative ways to solve real-world problems!
 
